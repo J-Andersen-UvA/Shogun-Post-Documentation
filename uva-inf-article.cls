@@ -187,7 +187,7 @@
 \renewcommand{\headrulewidth}{0pt}
 \lhead{\includegraphics[width=5cm]{\GetTranslation{uva_logo}}}
 \chead{\raisebox{-\baselineskip}{\andreaslineslim}}
-\rhead{\footnotesize \textsc {Live Link Pipeline}}
+\rhead{\footnotesize \textsc {Shogun Post Documentation}}
 \lfoot
 {
 \footnotesize
